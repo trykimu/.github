@@ -1,1 +1,1 @@
-Cursor for Video Editing.
+![Copilot for Video Editing](../public/banner.png)
