@@ -1,1 +1,0 @@
-Cursor for Video Editing.
