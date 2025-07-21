@@ -1,1 +1,1 @@
-![Copilot for Video Editing](../public/banner.png)
+![Copilot for Video Editing](../public/Banner.png)
